@@ -1,0 +1,11 @@
+{
+  "name": "Home Screen Play Time Remover",
+  "version": "v1.0",
+  "author": "GrodanBool",
+  "target": "Tweak",
+  "description": "Removes the playtime from the home page",
+  "inject": {
+    "shared.css": [ "SP" ]
+  },
+  "manifest_version": 3
+}
